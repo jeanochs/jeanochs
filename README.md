@@ -1,9 +1,10 @@
-# Hello! I am Jalani Eanochs, a graduating mechanical engineer and struggling programmer. 
+# Hello! I am Jalani Eanochs, a graduate mechanical engineering student and struggling programmer. 
 
 A little about me...
 
-1. Known programming languages: C++, Python, Visual Basic (incredibly rusty, though)
+1. Known programming languages: C/C++, Python, Visual Basic (incredibly rusty, though)
 2. Currently learning: how to program a PIC microcontroller without a IDE (masochistic, I know).
+3. Current Project: Control System for Capstone Project
 
 <!--I am not too hard to find. My socials:-->
 
