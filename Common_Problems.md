@@ -35,3 +35,15 @@ esptool.py --chip esp32s3 --port /your/port --baud 921600 write_flash -z --flash
 ```
 
 This has worked for me and replicates the behavior of the Arduino IDE. I'll probrobly write a bash script for this at some point because I need this to be automated. 
+
+## Manually adding Vim plugin help
+
+If one is installing Vim plugins manually, the help files will need to be loaded in this manner:
+
+```
+# We are assuming that the plugin has been moved to .vim/pack/{plugin}/start/
+# We are naviagting to the docs folder just to ensure that it exists
+$ cd .vim/pack/{plugin}/start/{plugin}/doc
+```
+
+Back in Vim, run the command `:helptags .vim/pack/{plugin}/start/{plugin}/doc`. From here, the files *should* be accessible via help.
