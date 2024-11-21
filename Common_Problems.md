@@ -5,7 +5,7 @@
 1. Check permissions (ensure that the read and write bits are set)
 2. Add "dialout" to users group.
    ```
-   !#/bin/bash
+   #!/bin/bash
 
    sudo adduser $USER dialout
    ```
