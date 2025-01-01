@@ -47,3 +47,49 @@ $ cd .vim/pack/{plugin}/start/{plugin}/doc
 ```
 
 Back in Vim, run the command `:helptags .vim/pack/{plugin}/start/{plugin}/doc`. From here, the files *should* be accessible via help.
+
+# A Few Other Helpful Coding Snippets
+
+## Source Code Header Template
+
+*Provided by ChatGPT*
+
+```
+/****************************************************
+ * File Name: <filename.ext>
+ * Author: <Your Full Name or Username>
+ * Date Created: YYYY-MM-DD
+ * Last Updated: YYYY-MM-DD
+ * Version: <version number> (e.g., 1.0.0)
+ * 
+ * Description:
+ *   A brief overview of what the file does, what the main
+ *   algorithm accomplishes, and any important design decisions.
+ *
+ * Dependencies:
+ *   List any required external libraries, frameworks, or
+ *   environment requirements.
+ *
+ * Usage:
+ *   Briefly explain how to use this file or the functions it contains,
+ *   including example command-line arguments or method calls if applicable.
+ *
+ * Inputs:
+ *   A description of input parameters or data files (if any).
+ *
+ * Outputs:
+ *   A description of the output, return values, or files produced.
+ *
+ * License:
+ *   <Specify the license type (e.g., MIT, GPL-3.0, Apache 2.0)>
+ *   <Optional copyright notice: © 2024 Your Name>
+ *
+ * Known Issues:
+ *   Mention any known bugs, limitations, or areas for improvement.
+ *
+ * References:
+ *   Cite any sources, documentation, or research papers that were
+ *   used in the development of this algorithm.
+ ****************************************************/
+
+```
