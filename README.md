@@ -1,10 +1,13 @@
-# Hello! I am Jalani Eanochs, a graduate mechanical engineering student and struggling programmer. 
+# Hello! I am Jalani Eanochs, a graduate mechanical engineering student with a specialization in computational mechanics.
 
 A little about me...
 
-1. Known programming languages: C/C++, Python, Visual Basic (incredibly rusty, though)
+1. Known programming languages: C/C++, Python.
 2. Currently learning: how to program a PIC microcontroller without a IDE (masochistic, I know).
-3. Current Project: Control System for Capstone Project
+
+## My Ongoing Programming/Computational Projects
+**Computational Mechanics**: Finite Element Simulation of Ion Diffusion across Crystals of Litihum Ion Battery
+**Embedding Programming**: Autonomous Systm for Beginning Seed Growth
 
 <!--I am not too hard to find. My socials:-->
 
