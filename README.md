@@ -7,6 +7,7 @@ A little about me...
 
 ## My Ongoing Programming/Computational Projects
 **Computational Mechanics**: Finite Element Simulation of Ion Diffusion across Crystals of Litihum Ion Battery
+
 **Embedding Programming**: Autonomous Systm for Beginning Seed Growth
 
 <!--I am not too hard to find. My socials:-->
