@@ -1,6 +1,6 @@
 # Hello! I am Jalani Eanochs, a graduate mechanical engineering student with a specialization in computational mechanics.
 
-I am moonlight as a fledging software engineer, with the majority of my expertise being in embedded and scientic programming. 
+I also moonlight as a fledging software engineer, with the majority of my expertise being in embedded and scientic programming. 
 I am trying to learn how to be a better web developer so I can become a full-stack engineer.
 
 A little about me...
