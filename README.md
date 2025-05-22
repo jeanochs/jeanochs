@@ -1,14 +1,16 @@
 # Hello! I am Jalani Eanochs, a graduate mechanical engineering student with a specialization in computational mechanics.
 
+I am moonlight as a fledging software engineer, with the majority of my expertise being in embedded and scientic programming. 
+I am trying to learn how to be a better web developer so I can become a full-stack engineer.
+
 A little about me...
 
-1. Known programming languages: C/C++, Python.
-2. Currently learning: how to program a PIC microcontroller without a IDE (masochistic, I know).
+1. Technologies and Frameworks: AWS (specifically EC2 and S3), Git (of course), Tkinter (Python)
+2. Programmming (and markup) languages (in order of familiarty): C/C++, Python, HTML, Javascript, CSS
+3. Currently learning: 6502 assembly (just for the sake of learning) and the basics of kernel development.
 
 ## My Ongoing Programming/Computational Projects
 **Computational Mechanics**: Finite Element Simulation of Ion Diffusion across Crystals of Litihum Ion Battery
-
-**Embedding Programming**: Autonomous Systm for Beginning Seed Growth
 
 <!--I am not too hard to find. My socials:-->
 
